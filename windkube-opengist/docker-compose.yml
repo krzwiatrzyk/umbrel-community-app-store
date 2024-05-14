@@ -1,11 +1,11 @@
 version: "3.7"
 
 services:
-  # app_proxy:
-  #   environment:
-  #     APP_HOST: windkube-opengist_server_1
-  #     APP_PORT: 6157
-  #     PROXY_AUTH_ADD: "false"
+  app_proxy:
+    environment:
+      APP_HOST: windkube-opengist_server_1
+      APP_PORT: 6157
+      PROXY_AUTH_ADD: "false"
     
   server:
     image: ghcr.io/thomiceli/opengist:1.7.2
