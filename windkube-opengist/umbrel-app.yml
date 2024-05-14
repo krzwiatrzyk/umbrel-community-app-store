@@ -1,25 +1,27 @@
 manifestVersion: 1
-id: big-bear-umbrel-scrypted
-name: Scrypted
-category: Networking
-version: "0.0.4"
-tagline: Scrypted is a high performance home video integration platform.
-icon: https://github.com/walkxcode/dashboard-icons/blob/main/png/scrypted.png?raw=true
-description: >
-  Scrypted can bridge most cameras to the three major home hubs: HomeKit (including HomeKit Secure Video), Google Home, and Alexa. Scrypted streams are fast, low latency, and have rock solid reliability.
-  Cameras: Unifi, Amcrest, Hikvision, ONVIF, RTSP, Ring, Arlo, Nest/Google, Tuya, Reolink, and more...
-developer: Koush
-website: https://scrypted.app
-dependencies: []
-repo: https://github.com/koush/scrypted
-support: https://github.com/koush/scrypted/issues
-port: 10443
+id: opengist
+name: Opengist
+tagline: What the heck is tagline
+icon: https://raw.githubusercontent.com/thomiceli/opengist/a9dd531f676d01b93bb6bd70751a69382ca563b0/public/opengist.svg
+category: Test
+version: "1.7.2"
+port: 6157
+description: >-
+  Opengist is a self-hosted pastebin powered by Git. 
+  All snippets are stored in a Git repository and can be read and/or modified using standard Git commands, or with the web interface. 
+  It is similiar to GitHub Gist, but open-source and could be self-hosted.
+developer: thomiceli
+website: https://github.com/thomiceli/opengist
+submitter: WindKube
+submission: https://github.com/thomiceli/opengist
+repo: https://github.com/thomiceli/opengist
+support: https://github.com/thomiceli/opengist/issues
 gallery:
-  - https://docs.scrypted.app/assets/install-plugin.164ec654.png
-path: ""
-defaultPassword: ""
+  - https://external-preview.redd.it/opengist-self-hosted-pastebin-powered-by-git-alternative-to-v0-8doTGHVcDCmALnyPPdRuvLf_kkMDAbRFQsgGDzRwIgs.jpg?width=1080&crop=smart&auto=webp&s=1b3a0da4d4c327fe8c9d819b021d7646c387f190
+releaseNotes: >-
+  https://github.com/thomiceli/opengist/releases/tag/v1.7.2
 torOnly: false
-releaseNotes: >
-  Full changelog for versions can be found here: https://github.com/koush/scrypted/releases
-submitter: BigBearTechWorld
-submission:
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

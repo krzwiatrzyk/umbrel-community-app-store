@@ -1,7 +1,0 @@
-version: 3
-
-tasks:
-  commit:
-  - git add .
-  - git commit -m "$(date)"
-  - git push

@@ -13,6 +13,5 @@ services:
     user: '1000:1000'
     ports:
     - "6157:6157"
-    container_name: opengist
     volumes:
       - "${APP_DATA_DIR}/data:/opengist"
