@@ -11,6 +11,6 @@ services:
     image: ghcr.io/thomiceli/opengist:1.7.2
     restart: on-failure
     ports:
-    - "6157:6157"
+    - "6157"
     volumes:
       - "${APP_DATA_DIR}/data:/opengist"
