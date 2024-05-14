@@ -1,0 +1,18 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: windkube-opengist_server_1
+      APP_PORT: 6157
+      PROXY_AUTH_ADD: "false"
+    
+  server:
+    image: ghcr.io/thomiceli/opengist:1.7.2
+    restart: on-failure
+    user: '1000:1000'
+    ports:
+    - "6157:6157"
+    container_name: opengist
+    volumes:
+      - "${APP_DATA_DIR}/data:/opengist"
