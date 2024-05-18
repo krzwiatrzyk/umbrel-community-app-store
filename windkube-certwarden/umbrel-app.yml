@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: windkube-certwarden
+name: CertWarden
+tagline: Cert Warden is a centralized ACME Client. It provides an API for certificate consumers to fetch their individual keys and certs with API keys.
+icon: https://www.certwarden.com/img/certwarden_icon_rounded.png
+category: Security
+version: "0.21.3"
+port: 4050
+description: >-
+  Centralized Certificate Management Conveniently Leverage Let's Encrypt to Secure Your Infrastructure
+developer: gregtwallace
+website: https://www.certwarden.com/
+submitter: WindKube
+submission: https://windkube.com
+repo: https://github.com/gregtwallace/certwarden
+support: https://github.com/gregtwallace/certwarden/issues
+gallery:
+  - https://www.certwarden.com/img/certwarden_icon_rounded.png
+  - https://www.certwarden.com/assets/images/function_diagram-7832bc7952989b1fad5e4ceb156a0a65.webp
+  - https://www.certwarden.com/assets/images/settings-ce4b7ec5b8777e55c6a5a263f3ce0d4c.png
+  - https://www.certwarden.com/img/screenshots/dashboard.png
+releaseNotes: >-
+  https://github.com/gregtwallace/certwarden/releases/tag/v0.21.3
+torOnly: false
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

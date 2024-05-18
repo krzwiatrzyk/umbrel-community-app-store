@@ -1,0 +1,20 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: windkube-certwarden_server_1
+      APP_PORT: 4050
+      PROXY_AUTH_ADD: "false"
+    
+  server:
+    image: ghcr.io/gregtwallace/certwarden:v0.21.3
+    restart: unless-stopped
+    ports:
+      - 4050:4050 # server interface (http)
+      # - 4055:4055 # server interface (https)
+      # - 4060:4060 # http-01 challenge server (http)
+      # - 4065:4065 # pprof debug server (http)
+      # - 4070:4070 # pprof debug server (https)
+    volumes:
+      - "${APP_DATA_DIR}/data:/app/data"
