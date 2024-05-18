@@ -10,7 +10,7 @@ services:
   server:
     image: zoraxydocker/zoraxy:3.0.3
     ports:
-      - 80
+      - 10080:80
       - 10443:443
       - 8000
     volumes:
