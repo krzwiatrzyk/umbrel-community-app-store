@@ -10,8 +10,8 @@ services:
   server:
     image: zoraxydocker/zoraxy:3.0.3
     ports:
-      - 10080:80
-      - 10443:443
-      - 8010:8000
+      - 80
+      - 443
+      - 8000
     volumes:
       - ${APP_DATA_DIR}/data:/opt/zoraxy/config/
