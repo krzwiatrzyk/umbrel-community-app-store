@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: windkube-dash
+name: Dash.
+tagline: A simple, modern server dashboard, primarily used by smaller private servers
+icon: https://getdashdot.com/img/logo512.png
+category: Monitoring
+version: "5.8.3"
+port: 3001
+description: >-
+  dash. (or dashdot) is a modern server dashboard, running on the latest tech, designed with glassmorphism in mind. 
+  It is intended to be used for smaller VPS and private servers.
+developer: MauriceNino
+website: https://getdashdot.com/
+submitter: WindKube
+submission: https://windkube.com
+repo: https://github.com/MauriceNino/dashdot
+support: https://github.com/MauriceNino/dashdot/issues
+gallery:
+  - https://github.com/MauriceNino/dashdot/raw/main/.github/images/banner_muted.png
+  - https://github.com/MauriceNino/dashdot/raw/main/apps/docs/static/img/screenshot_darkmode.png
+  - https://github.com/MauriceNino/dashdot/raw/main/apps/docs/static/img/screenshot_lightmode.png
+releaseNotes: >-
+  https://github.com/MauriceNino/dashdot/releases/tag/v5.8.3
+torOnly: false
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
