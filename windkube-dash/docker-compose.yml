@@ -10,6 +10,7 @@ services:
       # - 3000:3000 # view
       - 3001 # server
       # - 3002:3002 # docs
+    network_mode: host
     privileged: true
     environment:
       - DASHDOT_ENABLE_CPU_TEMPS=true
