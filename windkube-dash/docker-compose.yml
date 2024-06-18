@@ -1,14 +1,9 @@
 version: "3.7"
 
 services:
-  app_proxy:
-    environment:
-      APP_HOST: windkube-dash_server_1
-      APP_PORT: 3001
-      PROXY_AUTH_ADD: "false"
-    
   # https://getdashdot.com/
   server:
+    container_name: dashdot
     image: mauricenino/dashdot:5.8.3
     restart: on-failure
     ports:
