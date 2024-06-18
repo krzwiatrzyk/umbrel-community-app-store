@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: windkube-homarr
+name: Homarr
+tagline: homarr.dev
+icon: https://github.com/ajnart/homarr/raw/dev/docs/banner.png
+category: Dashboards
+version: "0.15.3"
+port: 7575
+description: >-
+  Opengist is a self-hosted pastebin powered by Git. 
+  All snippets are stored in a Git repository and can be read and/or modified using standard Git commands, or with the web interface. 
+  It is similiar to GitHub Gist, but open-source and could be self-hosted.
+developer: ajnart
+website: https://homarr.dev/
+submitter: WindKube
+submission: https://windkube.com
+repo: https://github.com/ajnart/homarr
+support: https://github.com/ajnart/homarr/issues
+gallery:
+  - https://private-user-images.githubusercontent.com/30572287/328625456-cfc6f949-16f8-4add-a4eb-668c258c3305.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3MzkxOTYsIm5iZiI6MTcxODczODg5NiwicGF0aCI6Ii8zMDU3MjI4Ny8zMjg2MjU0NTYtY2ZjNmY5NDktMTZmOC00YWRkLWE0ZWItNjY4YzI1OGMzMzA1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE4VDE5MjgxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0ZjAwN2NkMjllNGRhNzEyODhkZDMyZmViNWJjNjc3YTc0Yjk0NGU1M2U4ZWNkYTZjOTE3MjA1MGU4ZDM4YzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BOoR8F14cS3osfGnf11cFcHoRAo8ZehS1bgfWLrozV0
+  - https://private-user-images.githubusercontent.com/30572287/328633452-b368c4ae-7b6e-42d7-9bfc-58a110646dbe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3MzkxOTYsIm5iZiI6MTcxODczODg5NiwicGF0aCI6Ii8zMDU3MjI4Ny8zMjg2MzM0NTItYjM2OGM0YWUtN2I2ZS00MmQ3LTliZmMtNThhMTEwNjQ2ZGJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE4VDE5MjgxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3NzhlNDdmMGViZTY2NjFiMGFmNDI2NWY0ODcxOTNmM2FkNDg3ZDBiZjdjMzc3MTUwOTQ1NDgyMGU4Y2RhOGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QOE3qL7EiE-JvKpsHxpzuiILoPbe98T5PRym8xTVwrQ
+
+releaseNotes: >-
+  https://github.com/ajnart/homarr/releases/tag/v0.15.3
+torOnly: false
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
