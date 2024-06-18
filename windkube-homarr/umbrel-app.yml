@@ -2,7 +2,7 @@ manifestVersion: 1
 id: windkube-homarr
 name: Homarr
 tagline: homarr.dev
-icon: https://github.com/ajnart/homarr/raw/dev/docs/banner.png
+icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGlh8sTW_qS-0RcowleniVL9TmzLr6Rf-eg&s
 category: Dashboards
 version: "0.15.3"
 port: 7575
