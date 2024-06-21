@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: windkube-whats-up-docker
+name: What's Up Docker
+tagline: Gets you notified when new versions of your Docker containers are available and lets you react the way you want.
+icon: https://fmartinou.github.io/whats-up-docker/wud_logo_500.png
+category: Monitoring
+version: "6.4.1"
+port: 3070
+description: >-
+  What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
+developer: fmartinou
+website: https://fmartinou.github.io/
+submitter: WindKube
+submission: https://windkube.com
+repo: https://github.com/fmartinou/whats-up-docker
+support: https://github.com/fmartinou/whats-up-docker/issues
+gallery:
+  - https://github.com/fmartinou/whats-up-docker/raw/master/docs/introduction/wud_arch.png
+  - https://github.com/fmartinou/whats-up-docker/raw/master/docs/ui/ui.png
+releaseNotes: >-
+  https://fmartinou.github.io/whats-up-docker/#/changelog/
+torOnly: false
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
