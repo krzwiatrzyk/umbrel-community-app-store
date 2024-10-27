@@ -4,12 +4,13 @@ name: UpSnap
 tagline: upsnap
 icon: https://github.com/seriousm4x/UpSnap/raw/master/frontend/static/gopher.svg
 category: Network
-version: "0.15.6"
+version: "4.3.3"
 port: 8090
 description: >-
   A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 
   Features:
+
   - 🚀 One-Click Device Wake-Up Dashboard
   - ⏰ Timed Events via Cron for Automation
   - 🔌 Ping Any Port You Choose
