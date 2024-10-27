@@ -1,0 +1,39 @@
+manifestVersion: 1
+id: windkube-upsnap
+name: UpSnap
+tagline: upsnap
+icon: https://github.com/seriousm4x/UpSnap/raw/master/frontend/static/gopher.svg
+category: Network
+version: "0.15.6"
+port: 8090
+description: >-
+  A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+
+  Features:
+  - 🚀 One-Click Device Wake-Up Dashboard
+  - ⏰ Timed Events via Cron for Automation
+  - 🔌 Ping Any Port You Choose
+  - 🔍 Discover Devices with Network Scanning (nmap required)
+  - 👤 Secured User Management
+  - 🌐 i18n support for these languages
+  - 🎨 29 Themes
+  - 🐳 Docker images for amd64, arm64, arm/v7, arm/v6
+  - 🏠 Self-Hostable
+
+developer: ajnart
+website: https://homarr.dev/
+submitter: WindKube
+submission: https://windkube.com
+repo: https://github.com/seriousm4x/UpSnap
+support: https://github.com/seriousm4x/UpSnap/issues
+gallery:
+- https://github.com/seriousm4x/UpSnap/raw/master/assets/home-dark.webp
+- https://github.com/seriousm4x/UpSnap/raw/master/assets/account-dark.webp
+
+releaseNotes: >-
+  https://github.com/seriousm4x/UpSnap/releases/tag/4.3.3
+torOnly: false
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

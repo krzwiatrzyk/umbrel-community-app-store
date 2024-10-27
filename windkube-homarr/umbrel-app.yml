@@ -2,9 +2,9 @@ manifestVersion: 1
 id: windkube-homarr
 name: Homarr
 tagline: homarr.dev
-icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGlh8sTW_qS-0RcowleniVL9TmzLr6Rf-eg&s
+icon: https://static-00.iconduck.com/assets.00/homarr-icon-512x347-28r5jq1c.png
 category: Dashboards
-version: "0.15.3"
+version: "0.15.6"
 port: 7575
 description: >-
   Opengist is a self-hosted pastebin powered by Git. 
@@ -21,7 +21,7 @@ gallery:
   - https://private-user-images.githubusercontent.com/30572287/328633452-b368c4ae-7b6e-42d7-9bfc-58a110646dbe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3MzkxOTYsIm5iZiI6MTcxODczODg5NiwicGF0aCI6Ii8zMDU3MjI4Ny8zMjg2MzM0NTItYjM2OGM0YWUtN2I2ZS00MmQ3LTliZmMtNThhMTEwNjQ2ZGJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE4VDE5MjgxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3NzhlNDdmMGViZTY2NjFiMGFmNDI2NWY0ODcxOTNmM2FkNDg3ZDBiZjdjMzc3MTUwOTQ1NDgyMGU4Y2RhOGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QOE3qL7EiE-JvKpsHxpzuiILoPbe98T5PRym8xTVwrQ
 
 releaseNotes: >-
-  https://github.com/ajnart/homarr/releases/tag/v0.15.3
+  https://github.com/ajnart/homarr/releases/tag/v0.15.6
 torOnly: false
 dependencies: []
 path: ""
