@@ -1,12 +1,6 @@
 version: "3.7"
 
 services:
-  app_proxy:
-    environment:
-      APP_HOST: windkube-upsnap_server_1
-      APP_PORT: 8090
-      PROXY_AUTH_ADD: "false"
-    
   server:
     image: ghcr.io/seriousm4x/upsnap:4.3.3
     restart: on-failure
@@ -15,7 +9,7 @@ services:
       - TZ=Europe/Warsaw
       - PUID=1000
       - PGID=1000
-
+    
     volumes:
       - ${APP_DATA_DIR}/data:/app/pb_data
 
