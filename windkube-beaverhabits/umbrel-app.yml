@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: windkube-beaverhabits
+name: Beaverhabits
+tagline: beaverhabits
+icon: https://avatars.githubusercontent.com/u/6239652?s=48&v=4
+category: Tracking
+version: "0.4.0"
+port: 8080
+description: >-
+  A self-hosted habit tracking app without "Goals"
+developer: data0576
+website: https://github.com/daya0576/beaverhabits
+submitter: WindKube
+submission: https://windkube.com
+repo: https://github.com/daya0576/beaverhabits
+support: https://github.com/daya0576/beaverhabits/issues
+gallery:
+  - https://private-user-images.githubusercontent.com/6239652/331492565-0418fa41-8985-46ef-b623-333b62b2f92e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyODE1NTMsIm5iZiI6MTczNjI4MTI1MywicGF0aCI6Ii82MjM5NjUyLzMzMTQ5MjU2NS0wNDE4ZmE0MS04OTg1LTQ2ZWYtYjYyMy0zMzNiNjJiMmY5MmUuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMDdUMjAyMDUzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjFhODFjYzdhNjkwYmJiNjAxZDUyY2IxNTYwODg1MmU3ZTE5MmZmY2Q5NDA5YmYxZDE2ZWE5NzNkOWUwODdhNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Fy-mqn47f7W9RqJFjueYBbd8Qg2we0msbprNDC7GgfQ
+  - https://private-user-images.githubusercontent.com/6239652/331492564-c0ce98cf-5a44-4bbc-8cd3-c7afb20af671.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyODE1NTMsIm5iZiI6MTczNjI4MTI1MywicGF0aCI6Ii82MjM5NjUyLzMzMTQ5MjU2NC1jMGNlOThjZi01YTQ0LTRiYmMtOGNkMy1jN2FmYjIwYWY2NzEuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMDdUMjAyMDUzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZjViMTU3OTQyZTNlMDgwNTViZDI5NDg1ZmM3OTQwNjRkY2FhMzNmMjM4NGE4YTQ0YTk5NGNlZTViNDJkYTllYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.xb_QAk9cpXIDWgjhi9dqmShT7xP77u20W3ekaqT8iX0
+releaseNotes: >-
+  https://github.com/daya0576/beaverhabits/releases/tag/v0.4.0
+torOnly: false
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

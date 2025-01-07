@@ -1,0 +1,18 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: windkube-beaverhabits_server_1
+      APP_PORT: 8080
+      PROXY_AUTH_ADD: "false"
+    
+  server:
+    image: daya0576/beaverhabits:0.4.0
+    restart: on-failure
+    ports:
+    - 8080
+    environment:
+      HABITS_STORAGE: DATABASE
+    volumes:
+      - "${APP_DATA_DIR}/data:/app/.user"
