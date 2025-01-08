@@ -2,9 +2,9 @@ manifestVersion: 1
 id: windkube-zoraxy
 name: Zoraxy
 tagline: General purpose request (reverse) proxy and forwarding tool for networking noobs. Now written in Go!
-icon: https://res.cloudinary.com/practicaldev/image/fetch/s--7fF2Dyrc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://zoraxy.arozos.com/favicon.png
+icon: https://www.myqnap.org/wp-content/uploads/zoraxy-logo.png
 category: Network
-version: "3.0.3"
+version: "3.1.6"
 port: 8000
 description: >-
   Features:
@@ -42,7 +42,7 @@ gallery:
   - https://github.com/tobychui/zoraxy/raw/main/img/screenshots/1.png
   - https://github.com/tobychui/zoraxy/raw/main/img/screenshots/2.png
 releaseNotes: >-
-  https://github.com/tobychui/zoraxy/releases/tag/3.0.4
+  https://github.com/tobychui/zoraxy/releases/tag/3.1.6
 torOnly: false
 dependencies: []
 path: ""
