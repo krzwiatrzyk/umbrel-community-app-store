@@ -6,7 +6,7 @@ icon: https://www.myqnap.org/wp-content/uploads/zoraxy-logo.png
 category: Network
 version: "3.1.6"
 port: 8000
-description: >-
+description: |
   Features:
   - Simple to use interface with detail in-system instructions
   - Reverse Proxy (HTTP/2)
