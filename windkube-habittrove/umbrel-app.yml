@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: windkube-habittrove
+name: HabitTrove
+tagline: habittrove
+icon: https://avatars.githubusercontent.com/u/6239652?s=48&v=4
+category: Tracking
+version: "v0.1.17"
+port: 3000
+description: >-
+  A self-hosted gamified habit tracking app
+developer: data0576
+website: https://github.com/dohsimpson/HabitTrove
+submitter: WindKube
+submission: https://windkube.com
+repo: https://github.com/dohsimpson/HabitTrove
+support: https://github.com/dohsimpson/HabitTrove/issues
+gallery: []
+releaseNotes: >-
+  https://github.com/dohsimpson/HabitTrove/releases/tag/v0.1.17
+torOnly: false
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

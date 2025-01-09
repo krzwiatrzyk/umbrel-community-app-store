@@ -1,0 +1,17 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: habittrove
+      APP_PORT: 3000
+      PROXY_AUTH_ADD: "false"
+    
+  server:
+    image: dohsimpson/habittrove:v0.1.17
+    container_name: habittrove
+    restart: on-failure
+    ports:
+    - 3000
+    volumes:
+      - "${APP_DATA_DIR}/data:/app/data"
