@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: windkube-beszel
+name: Beszel
+tagline: beszel
+icon: https://beszel.dev/icon.svg
+category: Monitoring
+version: "v0.9.1"
+port: 8090
+description: >-
+  Lightweight server monitoring hub with historical data, docker stats, and alerts.
+developer: henrygd
+website: https://beszel.dev/
+submitter: WindKube
+submission: https://windkube.com
+repo: https://github.com/henrygd/beszel
+support: https://github.com/henrygd/beszel/issues
+gallery:
+- https://camo.githubusercontent.com/7d991ea77e409c8d8cd3939e99a141d1b6c5fd208926c50332cfb660b68a11c8/68747470733a2f2f68656e727967642d6173736574732e622d63646e2e6e65742f6265737a656c2f73637265656e73686f742d6e65772e706e67
+releaseNotes: >-
+  https://github.com/henrygd/beszel/releases/tag/v0.9.1
+torOnly: false
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
