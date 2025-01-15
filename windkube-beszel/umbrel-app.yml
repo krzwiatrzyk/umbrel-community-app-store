@@ -5,7 +5,7 @@ tagline: beszel
 icon: https://beszel.dev/icon.svg
 category: Monitoring
 version: "v0.9.1"
-port: 8090
+port: 8094
 description: >-
   Lightweight server monitoring hub with historical data, docker stats, and alerts.
 developer: henrygd
