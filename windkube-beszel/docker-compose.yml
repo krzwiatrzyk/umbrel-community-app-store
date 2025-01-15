@@ -3,6 +3,8 @@ services:
     image: henrygd/beszel:0.9.1
     container_name: beszel
     restart: unless-stopped
+    extra_hosts:
+      - host.docker.internal:host-gateway
     ports:
       - 8094:8090
     volumes:

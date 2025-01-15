@@ -1,0 +1,11 @@
+services:
+  server:
+    image: henrygd/beszel-agent:0.9.1
+    container_name: beszel-agent
+    restart: unless-stopped
+    network_mode: host
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    environment:
+      PORT: 45876
+      KEY: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFU4EpBk4gKa+fhk7XH+tEGvjthuozptol0fTglWfrnL"
